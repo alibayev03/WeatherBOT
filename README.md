@@ -104,7 +104,7 @@ text## API и ключи
 MIT License. См. [LICENSE](LICENSE).
 
 ## Авторы
-- **Твой ник** — основной разработчик.
+- **alibayev03** — основной разработчик.
 
 ## Благодарности
 - [aiogram](https://github.com/aiogram/aiogram) — для Telegram API.
