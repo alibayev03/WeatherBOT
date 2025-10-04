@@ -52,7 +52,7 @@ WEATHER_API_KEY=your_openweather_api_key_here
 text5. **Запустите бота**:
 python bot.py
 
-text## Деплой
+
 ### Render.com (рекомендуется, бесплатно до 750 ч/мес)
 1. Запушьте на GitHub (см. ниже).
 2. На render.com: "New +" → "Background Worker" → Подключите GitHub-репозиторий.
