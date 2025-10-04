@@ -1,3 +1,4 @@
+@ObHavoPlusBot
 # ObHavo+ - Telegram Weather Bot
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/твой_бот_юзернейм)  
