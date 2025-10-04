@@ -51,14 +51,7 @@ BOT_TOKEN=your_telegram_bot_token_here
 WEATHER_API_KEY=your_openweather_api_key_here
 text5. **Запустите бота**:
 python bot.py
-text## Структура проекта
-WeatherBOT/
-├── bot.py              # Основной код бота (aiogram, обработчики)
-├── weather.py          # Функции для API погоды и агрегации прогноза
-├── requirements.txt    # Зависимости
-├── Procfile           # Для деплоя (Render/Railway)
-├── .gitignore         # Игнор файлов
-└── .env               # Переменные (не коммитьте!)
+
 text## Деплой
 ### Render.com (рекомендуется, бесплатно до 750 ч/мес)
 1. Запушьте на GitHub (см. ниже).
