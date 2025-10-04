@@ -35,7 +35,7 @@ text## Требования
 
 ## Установка
 1. **Клонируйте репозиторий**:
-git clone https://github.com/твой_логин/WeatherBOT.git
+git clone https://github.com/alibayev03/WeatherBOT.git
 cd WeatherBOT
 text2. **Создайте виртуальное окружение**:
 python -m venv venv
