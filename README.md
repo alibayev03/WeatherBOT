@@ -1,7 +1,7 @@
 [@ObHavoPlusBot](https://t.me/ObHavoPlusBot)
 # ObHavo+ - Telegram Weather Bot
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/твой_бот_юзернейм)  
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/@ObHavoPlusBot)  
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![AIogram](https://img.shields.io/badge/AIogram-3.18.0-red.svg)](https://github.com/aiogram/aiogram)
